@@ -1,0 +1,24 @@
+{
+  "name": "apollo-docker-practice",
+  "version": "1.0.0",
+  "description": "just a simple practice project to use a rest endpoint as datasource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-gartland/apollo-docker-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-gartland/apollo-docker-practice/issues"
+  },
+  "homepage": "https://github.com/jonathan-gartland/apollo-docker-practice#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.0",
+    "graphql": "^16.6.0"
+  }
+}
