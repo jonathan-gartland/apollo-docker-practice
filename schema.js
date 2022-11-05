@@ -5,9 +5,9 @@ type temp {
 }
 
 type profile {
-  #ascore: Int, 
+  a_score: Int, 
   anonymous_proxy: Boolean, 
-  #bscore: Int, 
+  b_score: Int, 
   bin_name: String, 
   country_code: String, 
   country_match: Boolean, 

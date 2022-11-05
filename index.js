@@ -14,4 +14,4 @@ const server = new ApolloServer({
   },
 });
 
-server.listen(26000);
+server.listen(24000);
